@@ -116,7 +116,7 @@
     "why-did-you-update": "^0.1.1"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^17"
+    "react": "^16.0.0 || ^18"
   },
   "ava": {
     "files": [
