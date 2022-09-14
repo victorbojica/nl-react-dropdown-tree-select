@@ -1,6 +1,6 @@
 {
-  "name": "react-dropdown-tree-select",
-  "version": "0.0.0-semantic-release",
+  "name": "nl-react-dropdown-tree-select",
+  "version": "2.8.0",
   "description": "Lightweight, customizable and fast Dropdown Tree Select component for React",
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   ],
   "main": "dist/react-dropdown-tree-select.js",
   "types": "dist/react-dropdown-tree-select.d.ts",
-  "repository": "https://github.com/dowjones/react-dropdown-tree-select.git",
+  "repository": "https://github.com/victorbojica/react-dropdown-tree-select.git",
   "author": "Hrusikesh Panda <hrusikesh.panda@dowjones.com>",
   "license": "MIT",
   "scripts": {
